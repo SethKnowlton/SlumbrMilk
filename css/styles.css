@@ -11225,10 +11225,6 @@ img.rounded-with-border3 {
   border-radius: 10px; /* Rounded corners with a 10px radius */
 }
 
-img.rounded-with-border4 {
-  border: 2px solid #fff; /* 2px width solid black border */
-  
-}
 .btn-primary2 {
   --bs-btn-color: #fff;
   --bs-btn-bg: #FFA500;
